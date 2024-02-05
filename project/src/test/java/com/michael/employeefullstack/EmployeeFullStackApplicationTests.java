@@ -1,0 +1,13 @@
+package com.michael.employeefullstack;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EmployeeFullStackApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
